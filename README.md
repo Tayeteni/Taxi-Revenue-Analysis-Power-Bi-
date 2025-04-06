@@ -86,7 +86,7 @@ This analysis aims to conduct a revenue analysis to identify key influences on t
 - **Data Visualization**: Built a 4-page interactive dashboard targeted at answering key requirements and properly communicating findings through customized visuals.
 
 ## Result / Dashboard
-*A link to the interactive Power BI dashboard or screenshots can be added here.*
+
 
 ## Observation / Analysis
 Detailed observations of location-based revenue trends, trip purposes, tipping behavior, passenger distribution, pricing impacts, weather and traffic analysis, and weekday/weekend behaviors. (Content added in previous updates.)
