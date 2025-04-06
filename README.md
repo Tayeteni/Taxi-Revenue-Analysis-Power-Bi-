@@ -86,11 +86,18 @@ This analysis aims to conduct a revenue analysis to identify key influences on t
 - **Data Visualization**: Built a 4-page interactive dashboard targeted at answering key requirements and properly communicating findings through customized visuals.
 
 ## Result / Dashboard
-### Dashboard 1: Trip Patterns and Customer Behavior
+## Dashboards
 
-### Dashboard 2: Weather and Traffic Impact
+### Taxi Analysis Dashboard 1: Trip Patterns and Customer Behavior
+![Dashboard 1](./Taxi%20Analysis%20dashboard%201.png)
 
-### Dashboard 3: Hourly Revenue and Tipping Trends
+### Taxi Analysis Dashboard 2:  Weather and Traffic Impact
+![Dashboard 2](./Taxi%20Analysis%20dashboard2.png)
+
+### Taxi Analysis Dashboard 3: Hourly Revenue and Tipping Trends
+![Dashboard 3](./Taxi%20Analysis%20dashboard%203.png)
+
+
 
 ## Observation / Analysis
 Detailed observations of location-based revenue trends, trip purposes, tipping behavior, passenger distribution, pricing impacts, weather and traffic analysis, and weekday/weekend behaviors. (Content added in previous updates.)
