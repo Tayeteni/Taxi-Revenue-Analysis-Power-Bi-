@@ -92,7 +92,7 @@ This analysis aims to conduct a revenue analysis to identify key influences on t
 ![Dashboard 1](./Taxi%20Analysis%20dashboard%201.png)
 
 ### Taxi Analysis Dashboard 2:  Weather and Traffic Impact
-![Dashboard 2](./Taxi%20Analysis%20dashboard2.png)
+![Dashboard 2](./Taxi%20Analysis%20dashboard202.png)
 
 ### Taxi Analysis Dashboard 3: Hourly Revenue and Tipping Trends
 ![Dashboard 3](./Taxi%20Analysis%20dashboard%203.png)
