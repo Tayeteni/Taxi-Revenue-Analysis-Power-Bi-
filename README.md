@@ -87,14 +87,10 @@ This analysis aims to conduct a revenue analysis to identify key influences on t
 
 ## Result / Dashboard
 ### Dashboard 1: Trip Patterns and Customer Behavior
-![Dashboard 1 1]([Taxi%20Analysis%20dashboard%201.png](https://github.com/Tayeteni/Taxi-Revenue-Analysis-Power-Bi-/blob/main/Taxi%20Analysis%20dashboard%201.png))
 
 ### Dashboard 2: Weather and Traffic Impact
-![Dashboard 2]([Taxi%20Analysis%20dashboard%202.png](https://github.com/Tayeteni/Taxi-Revenue-Analysis-Power-Bi-/blob/main/Taxi%20Analysis%20dashboard%202.png))
 
 ### Dashboard 3: Hourly Revenue and Tipping Trends
-![Dashboard  3]([Taxi%20Analysis%20dashboard%203.png](https://github.com/Tayeteni/Taxi-Revenue-Analysis-Power-Bi-/blob/main/Taxi%20Analysis%20dashboard%203.png))
-
 
 ## Observation / Analysis
 Detailed observations of location-based revenue trends, trip purposes, tipping behavior, passenger distribution, pricing impacts, weather and traffic analysis, and weekday/weekend behaviors. (Content added in previous updates.)
