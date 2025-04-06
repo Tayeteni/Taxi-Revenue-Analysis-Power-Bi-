@@ -87,7 +87,7 @@ This analysis aims to conduct a revenue analysis to identify key influences on t
 
 ## Result / Dashboard
 ![Image 1]([Taxi%20Analysis%20dashboard%201.png](https://github.com/Tayeteni/Taxi-Revenue-Analysis-Power-Bi-/blob/main/Taxi%20Analysis%20dashboard%201.png))
-![Image 2](Taxi%20Analysis%20dashboard%202.png)
+![Image 2]([Taxi%20Analysis%20dashboard%202.png](https://github.com/Tayeteni/Taxi-Revenue-Analysis-Power-Bi-/blob/main/Taxi%20Analysis%20dashboard%202.png))
 ![Image 3](Taxi%20Analysis%20dashboard%203.png)
 
 
