@@ -97,6 +97,12 @@ This analysis aims to conduct a revenue analysis to identify key influences on t
 ### Taxi Analysis Dashboard 3: Hourly Revenue and Tipping Trends
 ![Dashboard 3](./Taxi%20Analysis%20dashboard%203.png)
 
+## Dashboard Interactivity
+
+The video below showcases the interactivity of the taxi revenue dashboard, demonstrating its features and how users can interact with the data.
+
+[Watch the video showing dashboard interactivity](https://drive.google.com/file/d/1lq5jOkpRYxIPcQj-O91Go3xkwcHb-9zQ/view?usp=sharing)
+
 
 
 ## Observation / Analysis
